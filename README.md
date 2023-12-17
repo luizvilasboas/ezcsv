@@ -99,7 +99,7 @@ For detailed documentation and usage examples, please refer to the [ezcsv GitLab
 
 ## Contributing
 
-Contributions to ezcsv are welcome! If you find a bug or have an idea for improvement, please open an issue or submit a pull request.
+Contributions to ezcsv are welcome! If you find a bug or have an idea for improvement, please open an issue or submit a merge request.
 
 ## License
 
