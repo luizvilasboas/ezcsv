@@ -8,8 +8,8 @@ variables:
   DOCKER_IMAGE_TAG: "$CI_COMMIT_TAG"
 
 before_script:
-  - apt-get update -qy
-  - apt-get install check -y
+  - sudo apt-get update -qy
+  - sudo apt-get install check -y
 
 build:
   stage: build
