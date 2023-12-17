@@ -10,8 +10,6 @@ variables:
 before_script:
   - apt-get update -qy
   - apt-get install check -y
-  tags:
-    - gcc
 
 build:
   stage: build
