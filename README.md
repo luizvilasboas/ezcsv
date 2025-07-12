@@ -27,7 +27,7 @@ To use ezcsv in your C project, follow these steps:
 Clone the ezcsv repository to your project's directory:
 
 ```
-git clone https://gitlab.com/olooeez/ezcsv.git
+git clone https://github.com/luizvilasboas/easyc.git
 cd ezcsv
 ```
 
@@ -95,7 +95,7 @@ int main() {
 
 ## Documentation
 
-For detailed documentation and usage examples, please refer to the [ezcsv GitLab repository](https://gitlab.com/olooeez/ezcsv).
+For detailed documentation and usage examples, please refer to the [ezcsv GitHub repository](https://github.com/luizvilasboas/easyc.git).
 
 ## Contributing
 
@@ -103,4 +103,4 @@ Contributions to ezcsv are welcome! If you find a bug or have an idea for improv
 
 ## License
 
-This project is licensed under the [Apache License 2.0](https://gitlab.com/olooeez/ezcsv/-/blob/main/LICENSE). See the LICENSE file for more details.
+This project is licensed under the [MIT License](https://github.com/luizvilasboas/easyc/blob/main/LICENSE). See the LICENSE file for more details.
